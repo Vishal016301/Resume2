@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Resume2/static/css/main.90324c0a.css",
-    "main.js": "/Resume2/static/js/main.ccbb1e61.js",
-    "static/js/453.ed3810f9.chunk.js": "/Resume2/static/js/453.ed3810f9.chunk.js",
-    "static/media/activitimg.jpg": "/Resume2/static/media/activitimg.65582258c5c4164d3202.jpg",
-    "static/media/boneimg.jpg": "/Resume2/static/media/boneimg.3e10ad1be7364db86475.jpg",
-    "static/media/lungsimg.jpg": "/Resume2/static/media/lungsimg.108339d37ee112b7366d.jpg",
-    "static/media/humanbodyiamge.avif": "/Resume2/static/media/humanbodyiamge.970bdacf9b709e85cbbb.avif",
-    "static/media/teethimg.webp": "/Resume2/static/media/teethimg.b0c97ec67e2c5b9cf87a.webp",
-    "index.html": "/Resume2/index.html",
-    "main.90324c0a.css.map": "/Resume2/static/css/main.90324c0a.css.map",
-    "main.ccbb1e61.js.map": "/Resume2/static/js/main.ccbb1e61.js.map",
-    "453.ed3810f9.chunk.js.map": "/Resume2/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Resume/static/css/main.90324c0a.css",
+    "main.js": "/Resume/static/js/main.413e4eb7.js",
+    "static/js/453.ed3810f9.chunk.js": "/Resume/static/js/453.ed3810f9.chunk.js",
+    "static/media/activitimg.jpg": "/Resume/static/media/activitimg.65582258c5c4164d3202.jpg",
+    "static/media/boneimg.jpg": "/Resume/static/media/boneimg.3e10ad1be7364db86475.jpg",
+    "static/media/lungsimg.jpg": "/Resume/static/media/lungsimg.108339d37ee112b7366d.jpg",
+    "static/media/humanbodyiamge.avif": "/Resume/static/media/humanbodyiamge.970bdacf9b709e85cbbb.avif",
+    "static/media/teethimg.webp": "/Resume/static/media/teethimg.b0c97ec67e2c5b9cf87a.webp",
+    "index.html": "/Resume/index.html",
+    "main.90324c0a.css.map": "/Resume/static/css/main.90324c0a.css.map",
+    "main.413e4eb7.js.map": "/Resume/static/js/main.413e4eb7.js.map",
+    "453.ed3810f9.chunk.js.map": "/Resume/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90324c0a.css",
-    "static/js/main.ccbb1e61.js"
+    "static/js/main.413e4eb7.js"
   ]
 }
