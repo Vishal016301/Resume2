@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.90324c0a.css",
+    "main.js": "/my-app/static/js/main.96c9b10a.js",
+    "static/js/453.ed3810f9.chunk.js": "/my-app/static/js/453.ed3810f9.chunk.js",
+    "static/media/activitimg.jpg": "/my-app/static/media/activitimg.65582258c5c4164d3202.jpg",
+    "static/media/boneimg.jpg": "/my-app/static/media/boneimg.3e10ad1be7364db86475.jpg",
+    "static/media/lungsimg.jpg": "/my-app/static/media/lungsimg.108339d37ee112b7366d.jpg",
+    "static/media/humanbodyiamge.avif": "/my-app/static/media/humanbodyiamge.970bdacf9b709e85cbbb.avif",
+    "static/media/teethimg.webp": "/my-app/static/media/teethimg.b0c97ec67e2c5b9cf87a.webp",
+    "index.html": "/my-app/index.html",
+    "main.90324c0a.css.map": "/my-app/static/css/main.90324c0a.css.map",
+    "main.96c9b10a.js.map": "/my-app/static/js/main.96c9b10a.js.map",
+    "453.ed3810f9.chunk.js.map": "/my-app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90324c0a.css",
+    "static/js/main.96c9b10a.js"
+  ]
+}
